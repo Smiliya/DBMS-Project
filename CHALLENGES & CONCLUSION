@@ -1,0 +1,17 @@
+CHALLENGES:
+   1. Error-Prone Manual Records Paper-based or spreadsheet-based record systems are highly prone to duplication, loss of data, and errors in maintaining criminal histories.
+   2. Complex Relationships A single crime may involve multiple victims, witnesses, and sometimes multiple criminals. Capturing and maintaining these many-to-many
+      relationships manually is difficult.
+   3. Investigation Tracking Investigations are dynamic processes with start dates, end dates, statuses, and remarks. Manual systems often fail to update investigation progress in real
+      time.
+   4. Data Security and Integrity Crime-related data is highly sensitive. Ensuring accuracy, consistency, and security in a relational database is essential to maintain trust and compliance.
+
+CONCLUSION:
+   A Crime Records Management System offers significant benefits:
+      • Efficiency: Reduces paperwork and manual record-keeping.
+      • Accuracy: Eliminates duplication and minimizes errors in reporting.
+      • Data Integrity: Ensures consistency and valid relationships through foreign keys.
+      • Quick Access: Enables fast retrieval of records for decision-making and analysis.
+      • Compliance: Helps law enforcement maintain proper documentation for legaL procedures.
+Such a system not only modernizes record-keeping but also strengthens law
+enforcement capabilities in solving and preventing crimes.
