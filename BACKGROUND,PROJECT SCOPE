@@ -1,0 +1,17 @@
+CASE STUDY:
+Crime Records Management System
+
+
+  BACKGROUND:
+      Crime records management is a critical task for law enforcement agencies.Traditional methods often involve manual record-keeping, which is time-consuming,
+error-prone, and inefficient. With the rise in criminal cases and the need for quickaccess to accurate information, there is a strong demand for a database-driven Crime
+Records Management System.The proposed database system will store details about criminals, crimes, victims,witnesses, investigations, and police stations. This centralized database will enable
+law enforcement officers to quickly retrieve, update, and analyze crime-relatedinformation, improving both efficiency and decision-making.
+
+
+  PROJECT SCOPE:
+      The scope of this project is to design and implement a relational database that can handle multiple aspects of crime data. The system will:
+              • Store information about criminals, crimes, victims, police stations,investigations, and witnesses.
+              • Establish relationships between crimes and related entities (criminals, victims,witnesses, investigations).
+              • Ensure data consistency through the use of primary keys, foreign keys, and normalization.
+              • Provide accurate and quick retrieval of information for reporting and analysis.
